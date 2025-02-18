@@ -1,4 +1,4 @@
-package array_Program;
+package array_PrintDuplicatedElement;
 
 import java.util.Arrays;
 import java.util.List;

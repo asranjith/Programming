@@ -14,7 +14,7 @@ public class ThirdMax {
 			}else if(a[i]>secondMax && a[i]!=max) {
 				thirdMax=secondMax;
 				secondMax=a[i];
-			}else if(a[i]>thirdMax && a[i]!=secondMax) {
+			}else if(a[i]>thirdMax && a[i]!=secondMax && a[i]!=max) {
 				thirdMax=a[i];
 			}
 		}

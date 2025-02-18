@@ -1,6 +1,6 @@
 package string_Program;
 
-public class PrintUniqueLettersInAString {
+public class PrintUniqueCharInAString {
 	public static void main(String[] args) {
 		String s="java";
 		for(int i=0;i<s.length();i++) {

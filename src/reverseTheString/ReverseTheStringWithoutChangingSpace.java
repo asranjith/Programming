@@ -1,4 +1,4 @@
-package string_Program;
+package reverseTheString;
 
 public class ReverseTheStringWithoutChangingSpace {
 	public static void main(String[] args) {

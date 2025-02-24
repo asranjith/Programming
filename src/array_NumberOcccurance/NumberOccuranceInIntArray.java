@@ -1,4 +1,4 @@
-package array_Program;
+package array_NumberOcccurance;
 
 import java.util.LinkedHashMap;
 
